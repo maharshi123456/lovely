@@ -68,6 +68,7 @@
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <form action="mailto:guptamaharshinand@gmail.com">
             <span class="navbar-toggler-icon"></span>
           </button>
 
@@ -129,6 +130,8 @@
       </div>
       <div class="detail-box">
         <p>
+          <button onclick= "document.location =  'mailto:guptamaharshinand@gmail.com'"">mail me
+ </button>
           It is a long established fact that a reader will be distracted by the readable content of a page when looking
           at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as
           opposed to using 'Content here, content here', making it

@@ -42,7 +42,7 @@
         <div class="top_contact-container">
           <div class="tel_container">
             <a href="">
-              <img src="images/telephone-symbol-button.png" alt=""> Call : +01 1234567890
+              <img src="images/telephone-symbol-button.png" alt=""> Call : +91 8050233402
             </a>
           </div>
           <div class="social-container">
@@ -159,7 +159,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  +01 123567894
+                  +91 8050233402
                 </h6>
               </div>
             </div>
@@ -221,7 +221,7 @@
   <!-- footer section -->
   <section class="container-fluid footer_section">
     <p>
-      &copy; 2019 All Rights Reserved. Design by
+      &copy; 2022 All Rights Reserved. Design by
       <a href="https://html.design/">Free Html Templates</a>
     </p>
   </section>

@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Medion</title>
+  <title>Lovely</title>
 
   <!-- slider stylesheet -->
   <link rel="stylesheet" type="text/css"
@@ -42,7 +42,7 @@
         <div class="top_contact-container">
           <div class="tel_container">
             <a href="">
-              <img src="images/telephone-symbol-button.png" alt=""> Call : +01 1234567890
+              <img src="images/telephone-symbol-button.png" alt=""> Call : +91 80502
             </a>
           </div>
           <div class="social-container">
@@ -68,6 +68,7 @@
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <form action="mailto:guptamaharshinand@gmail.com">
             <span class="navbar-toggler-icon"></span>
           </button>
 
@@ -129,6 +130,8 @@
       </div>
       <div class="detail-box">
         <p>
+          <button onclick= "document.location =  'mailto:guptamaharshinand@gmail.com'"">mail me
+ </button>
           It is a long established fact that a reader will be distracted by the readable content of a page when looking
           at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as
           opposed to using 'Content here, content here', making it
@@ -159,7 +162,7 @@
               </div>
               <div class="detail-box">
                 <h6>
-                  +01 123567894
+                  +91 8050233402
                 </h6>
               </div>
             </div>
@@ -221,7 +224,7 @@
   <!-- footer section -->
   <section class="container-fluid footer_section">
     <p>
-      &copy; 2019 All Rights Reserved. Design by
+      &copy; 2022 All Rights Reserved. Design by
       <a href="https://html.design/">Free Html Templates</a>
     </p>
   </section>
@@ -271,6 +274,25 @@
         }
       }
     });
+       <h1>Feedback Form</h1>
+<form method="post" action="send_mail.php">
+<p>
+<label>First Name
+<input type="text" name="first_name" required>
+</label> 
+</p>
+<p>
+<label>Email 
+<input type="email" name="email_address">
+</label>
+</p>
+<p>
+<label>Comments
+<textarea name="comments" maxlength="500"></textarea>
+</label>
+</p>
+<p><button>Submit the form</button></p>       
+              
   </script>
 </body>
 

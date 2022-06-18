@@ -42,7 +42,7 @@
         <div class="top_contact-container">
           <div class="tel_container">
             <a href="">
-              <img src="images/telephone-symbol-button.png" alt=""> Call : +91 8050233402
+              <img src="images/telephone-symbol-button.png" alt=""> Call : +91 80502
             </a>
           </div>
           <div class="social-container">
@@ -274,6 +274,25 @@
         }
       }
     });
+       <h1>Feedback Form</h1>
+<form method="post" action="send_mail.php">
+<p>
+<label>First Name
+<input type="text" name="first_name" required>
+</label> 
+</p>
+<p>
+<label>Email 
+<input type="email" name="email_address">
+</label>
+</p>
+<p>
+<label>Comments
+<textarea name="comments" maxlength="500"></textarea>
+</label>
+</p>
+<p><button>Submit the form</button></p>       
+              
   </script>
 </body>
 

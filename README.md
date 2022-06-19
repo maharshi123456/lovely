@@ -66,11 +66,7 @@
               Medion
             </span>
           </a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <form action="mailto:guptamaharshinand@gmail.com">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+        
 
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="d-flex  flex-column flex-lg-row align-items-center w-100 justify-content-between">
@@ -137,6 +133,11 @@
         </p>
           <button onclick= "document.location =  'mailto:guptamaharshinand@gmail.com'"">mail me
  </button>
+                                                                                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <form action="mailto:guptamaharshinand@gmail.com">
+            <span class="navbar-toggler-icon"></span>
+          </button>
         <div class="d-flex justify-content-center">
           <a href="">
             Read More

@@ -1,19 +1,11 @@
 <html>
 
 <head>
-  <!-- Basic -->
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <!-- Mobile Metas -->
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <!-- Site Metas -->
-  <meta name="keywords" content="" />
-  <meta name="description" content="" />
-  <meta name="author" content="" />
 
   <title>Lovely</title>
 
- <form action="https://getform.io/f/42f52f72-a29b-42b4-8ea9-e3f17f315b1d" method="POST">
+ <form action="https://mail.google.com/mail/u/0/#inbox" method="POST">
+   
     <input type="text" name="name">
     <input type="email" name="email">
     <input type="text" name="message">
@@ -32,7 +24,4 @@
     </select>
     <button type="submit">Send</button>
 </form>  
-  </script>
-</body>
 
-</html>

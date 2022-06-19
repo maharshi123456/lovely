@@ -4,7 +4,7 @@
 
   <title>Lovely</title>
 
- <form action="https://mail.google.com/mail/u/0/#inbox" method="POST">
+ <form action="[https://mail.google.com/mail/u/0/#inbox](https://getform.io/f/42f52f72-a29b-42b4-8ea9-e3f17f315b1d)" method="POST">
    
     <input type="text" name="name">
     <input type="email" name="email">

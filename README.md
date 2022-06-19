@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -32,19 +31,7 @@
         <option value="five-plus-years">5+ years</option>
     </select>
     <button type="submit">Send</button>
-</form>
-<p>
-<label>Email 
-<input type="email" name="email_address">
-</label>
-</p>
-<p>
-<label>Comments
-<textarea name="comments" maxlength="500"></textarea>
-</label>
-</p>
-<p><button>Submit the form</button></p>       
-              
+</form>  
   </script>
 </body>
 
